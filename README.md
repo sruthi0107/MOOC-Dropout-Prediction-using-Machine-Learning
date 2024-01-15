@@ -15,11 +15,11 @@ time would produce better results. We also found that using features over a long
 
 ## Results
 - The graphs below depict the Accuracy vs weeks and AUC vs weeks curve for Method-1
-(Graphs/weeks_vs_accuracy_method1)
-(Graphs/weeks_vs_AUC_method1)
+![Accuracy vs weeks Method-1](Graphs/weeks_vs_accuracy_method1.png)
+![AUC vs weeks Method-1](Graphs/weeks_vs_AUC_method1.png)
 - The graphs below depict the Accuracy vs weeks and AUC vs weeks curve for Method-2
-  Graphs/weeks_vs_accuracy_method2)
-  Graphs/weeks_vs_AUC_method2)
+![Accuracy vs weeks Method-2](Graphs/weeks_vs_accuracy_method2.png)
+![AUC vs weeks Method-2](Graphs/weeks_vs_AUC_method2.png)
 
 ## Citation
 If you use this work in your research, kindly cite this paper. The citation for the paper is as follows: 
